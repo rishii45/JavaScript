@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    background-color: rgb(202, 166, 246);
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+    margin: 1.5rem;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.orange{
+    background-color: #f39034;
+}
+.red{
+    background-color: #d64872;
+}
+.purple{
+    background-color: #6e92fd;
+}
+.green{
+    background-color: #3f8195;
+}
+
+.flash{
+    background-color: #ffffff;
+}
+
+.userflash{
+    background-color: rgb(49, 222, 49);
+}
+h1{
+    font-family: 'Black Ops One', cursive;
+    font-size: 40px;
+}
+h2{
+    background-color: red;
+}
