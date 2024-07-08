@@ -1,2 +1,2 @@
-# JavaScript
+# JavaScript Projects
 All JavaScript Codes
